@@ -55,23 +55,23 @@ namespace ConsoleApp7
             }
             else if (inp == "i")
             {
-                Console.WriteLine("trójkąt prostokątny: " + xxxx.add10());
+                Console.WriteLine("pole trójkąta prostokątnego: " + xxxx.add10());
             }
             else if (inp == "j")
             {
-                Console.WriteLine("trapez: " + xxxx.add11());
+                Console.WriteLine("pole trapezu: " + xxxx.add11());
             }
             else if (inp == "k")
             {
-                Console.WriteLine("pole trójkąta: " + xxxx.add12());
+                Console.WriteLine("pole ostrosłupa czworokątnego: " + xxxx.add12());
             }
             else if (inp == "l")
             {
-                Console.WriteLine("pole trójkąta: " + xxxx.add13());
+                Console.WriteLine("wysokość trójkąta: " + xxxx.add13());
             }
             else if (inp == "m")
             {
-                Console.WriteLine("pole trójkąta: " + xxxx.add14());
+                Console.WriteLine("pole czworościanu foremnego: " + xxxx.add14());
             }
             else if (inp == "n")
             {
