@@ -78,22 +78,12 @@ namespace ConsoleApp7
             Console.WriteLine("Enter przekątna 1 and 2");
             double a = double.Parse(Console.ReadLine());
             double b = double.Parse(Console.ReadLine());
-            return (a * b);
+            return (a * b)/2;
 
 
 
         }
-       /* internal static double add8()
-        {
-            Console.WriteLine("Enter a and b");
-            double a = double.Parse(Console.ReadLine());
-            double b = double.Parse(Console.ReadLine());
-            Console.WriteLine(a + b);
-            return a;
-
-
-
-        }*/
+       
         internal static double add9()
         {
             Console.WriteLine("Enter a and b and h");
