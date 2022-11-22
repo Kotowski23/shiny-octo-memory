@@ -9,3 +9,14 @@ C:\Users\Milo\source\repos\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.GenerateR
 C:\Users\Milo\source\repos\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.CoreCompileInputs.cache
 C:\Users\Milo\source\repos\Projekt1\Projekt1\obj\Debug\Projekt1.exe
 C:\Users\Milo\source\repos\Projekt1\Projekt1\obj\Debug\Projekt1.pdb
+C:\Users\Uczen\Desktop\Nowy folder\shiny-octo-memory-main\shiny-octo-memory-main\Projekt1\Projekt1\bin\Debug\Projekt1.exe.config
+C:\Users\Uczen\Desktop\Nowy folder\shiny-octo-memory-main\shiny-octo-memory-main\Projekt1\Projekt1\bin\Debug\Projekt1.exe
+C:\Users\Uczen\Desktop\Nowy folder\shiny-octo-memory-main\shiny-octo-memory-main\Projekt1\Projekt1\bin\Debug\Projekt1.pdb
+C:\Users\Uczen\Desktop\Nowy folder\shiny-octo-memory-main\shiny-octo-memory-main\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.AssemblyReference.cache
+C:\Users\Uczen\Desktop\Nowy folder\shiny-octo-memory-main\shiny-octo-memory-main\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uczen\Desktop\Nowy folder\shiny-octo-memory-main\shiny-octo-memory-main\Projekt1\Projekt1\obj\Debug\Projekt1.Form1.resources
+C:\Users\Uczen\Desktop\Nowy folder\shiny-octo-memory-main\shiny-octo-memory-main\Projekt1\Projekt1\obj\Debug\Projekt1.Properties.Resources.resources
+C:\Users\Uczen\Desktop\Nowy folder\shiny-octo-memory-main\shiny-octo-memory-main\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.GenerateResource.cache
+C:\Users\Uczen\Desktop\Nowy folder\shiny-octo-memory-main\shiny-octo-memory-main\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\Desktop\Nowy folder\shiny-octo-memory-main\shiny-octo-memory-main\Projekt1\Projekt1\obj\Debug\Projekt1.exe
+C:\Users\Uczen\Desktop\Nowy folder\shiny-octo-memory-main\shiny-octo-memory-main\Projekt1\Projekt1\obj\Debug\Projekt1.pdb

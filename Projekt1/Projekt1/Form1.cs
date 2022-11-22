@@ -95,7 +95,7 @@ namespace Projekt1
         private void button8_Click(object sender, EventArgs e)
         {
            
-            int afive = 0;
+           
             textBox2.Text = "50$";
             textBox3.Text = "60$";
             textBox4.Text = "80$";

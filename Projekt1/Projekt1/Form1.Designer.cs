@@ -122,11 +122,11 @@
             // 
             // button8
             // 
-            this.button8.Location = new System.Drawing.Point(292, 214);
+            this.button8.BackgroundImage = global::Projekt1.Properties.Resources.TapToPlay;
+            this.button8.Location = new System.Drawing.Point(101, 241);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(155, 64);
+            this.button8.Size = new System.Drawing.Size(527, 54);
             this.button8.TabIndex = 12;
-            this.button8.Text = "start";
             this.button8.UseVisualStyleBackColor = true;
             this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
@@ -166,7 +166,7 @@
             this.button1.ForeColor = System.Drawing.Color.Cyan;
             this.button1.Location = new System.Drawing.Point(321, 56);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(96, 147);
+            this.button1.Size = new System.Drawing.Size(97, 147);
             this.button1.TabIndex = 0;
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
